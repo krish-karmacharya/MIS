@@ -52,7 +52,6 @@ build/
 *.pyd
 .Python
 env/
-.env/
 .venv/
 
 # Coverage reports
@@ -64,4 +63,4 @@ htmlcov/
 *.tmp
 *.temp
 .cache/
-.temp/ 
+.temp/
