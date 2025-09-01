@@ -10,9 +10,9 @@ const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-lg">E</span>
+                <span className="text-white font-bold text-lg">B</span>
               </div>
-              <span className="text-xl font-bold">Ecommerce</span>
+              <span className="text-xl font-bold">Bhaktapur Mart</span>
             </div>
             <p className="text-gray-400 mb-4 max-w-md">
               Your one-stop destination for quality products. We offer a wide
